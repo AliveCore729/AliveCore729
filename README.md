@@ -34,9 +34,8 @@ Welcome to my GitHub! I am an undergraduate student specializing in software and
 
 ## 📫 Let's Connect!
 * **GitHub:** [@AliveCore729](https://github.com/AliveCore729)
-* **LinkedIn:** [Link your LinkedIn profile here]
-* **Portfolio/Resume:** [Link your resume or personal website here]
-* **Email:** [Add your contact email here]
+* **LinkedIn:** [https://www.linkedin.com/in/shreyanshjain7/]
+* **Email:** [shreyanshjn007@gmail.com]
 
 ---
 💡 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
