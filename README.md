@@ -1,41 +1,23 @@
 # Hi there, I'm Shreyansh Jain 👋
 
-Welcome to my GitHub! I am an undergraduate student specializing in software and web development. I enjoy building robust full-stack applications, researching FinTech optimization models, and designing modern, intuitive user interfaces. 
+# 💫 About Me:
+ I am an undergraduate student specializing in software and web development. I enjoy building robust full-stack applications, researching FinTech optimization models, and designing modern, intuitive user interfaces. i like to learn new things and i am open to explore new things<br>
 
-## 🛠️ Skills & Technologies
 
-* **Languages:** Python, Java, JavaScript, Kotlin
-* **Frontend Development:** React, PyQt5, UI/UX Design (Modern Minimalism, Neo-Brutalism, Bento Grid)
-* **Backend & Networking:** Node.js, Django, Socket.io, Computer Networking (TCP/IP, Subnetting)
-* **Research & AI:** Reinforcement Learning, Transformers, FinTech (CVaR & Portfolio Optimization), Generative AI (Prompt Engineering)
-* **Environment:** Ubuntu Linux, Git
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyanshjain7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshjn007@gmail.com) 
 
-## 🚀 Featured Projects & Work
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AliveCore729&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AliveCore729&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AliveCore729&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-* **[Chemical Equipment Parameter Visualizer](https://github.com/AliveCore729/chemical-equipment-parameter-visualizer)**
-  A hybrid application utilizing a Django backend with React and PyQt5 frontends for equipment analysis.
-* **FinTech Portfolio Optimization Research**
-  Developed an empirical pipeline using the NIFTY 50 dataset to study entropy-regularized portfolio optimization utilizing PPO and Transformers.
-* **Synchronized Audio Player**
-  A master-slave audio prototype built with Node.js and Socket.io, designed to play music simultaneously across multiple mobile devices.
-* **[Health Connect App](https://github.com/AliveCore729/health-connect-app)**
-  A full-stack healthcare support application built with JavaScript.
-* **Simple Event Management System**
-  A desktop GUI application engineered with Java Swing, JavaBeans, and JDBC for comprehensive event record management.
-* **[Shop Expense Tracker](https://github.com/AliveCore729/ShopExpenseTracker)**
-  A mobile expense tracking application developed in Kotlin.
-* **[NFT Ticketing System](https://github.com/AliveCore729/NFT-Ticketing-System) & [Project Management System](https://github.com/AliveCore729/Project-Management-System)**
-  JavaScript-based solutions for managing digital ticketing and collaborative workflows.
-
-## 🌱 What I'm Currently Exploring
-* Deepening my research into quantitative finance and algorithmic optimization.
-* Exploring advanced Generative AI applications for high-resolution cinematic and editorial art.
-* Expanding my open-source contributions and preparing for Software Development Engineering (SDE) roles.
-
-## 📫 Let's Connect!
-* **GitHub:** [@AliveCore729](https://github.com/AliveCore729)
-* **LinkedIn:** [https://www.linkedin.com/in/shreyanshjain7/]
-* **Email:** [shreyanshjn007@gmail.com]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AliveCore729&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-💡 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
+[![](https://komarev.com/ghpvc/?username=AliveCore729&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
